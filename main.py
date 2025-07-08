@@ -28,7 +28,7 @@ The agent's goal is to prevent defective products from reaching customers by mov
 # --- Attribution and License ---
 st.sidebar.title("About")
 st.sidebar.markdown("""
-**Designed by Richie, TAR UMT**
+**Designed by Assoc Prof Ts Dr Yu Yong Poh, Tunku Abdul Rahman University of Management and Technology**
 <a href="mailto:yuyp@tarc.edu.my">yuyp@tarc.edu.my</a>
 """, unsafe_allow_html=True)
 st.sidebar.info("""
